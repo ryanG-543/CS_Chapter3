@@ -16,11 +16,9 @@ namespace CheckLowAndHighRate
             Console.WriteLine("What is the hourly pay?");
             payString = Console.ReadLine();
             pay = Convert.ToInt32(payString);
-            if (pay < LOW)
-                Console.WriteLine("ERROR. NOT ENOUGH MONEY");
-            else
+            if (pay < LOW) ;
                 if (pay > HIGH)
-                Console.WriteLine("ERROR. TOO MUCH MONEY");
+                Console.WriteLine("ERROR");
             else
                 Console.WriteLine("EXCELLENT");
         }

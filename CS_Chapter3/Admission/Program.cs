@@ -9,6 +9,7 @@ namespace Admission
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
