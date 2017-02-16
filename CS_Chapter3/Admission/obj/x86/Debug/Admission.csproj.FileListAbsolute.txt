@@ -3,3 +3,5 @@ C:\Users\eahscs\Documents\GitHub\CS_Chapter3\CS_Chapter3\Admission\bin\Debug\Adm
 C:\Users\eahscs\Documents\GitHub\CS_Chapter3\CS_Chapter3\Admission\obj\x86\Debug\Admission.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter3\CS_Chapter3\Admission\obj\x86\Debug\Admission.pdb
 C:\Users\eahscs\Documents\GitHub\CS_Chapter3\CS_Chapter3\Admission\obj\x86\Debug\Admission.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\Visual Studio 2015\Projects\CS_Chapter3\CS_Chapter3\Admission\obj\x86\Debug\Admission.exe
+C:\Users\eahscs\Documents\Visual Studio 2015\Projects\CS_Chapter3\CS_Chapter3\Admission\obj\x86\Debug\Admission.pdb
