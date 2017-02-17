@@ -19,7 +19,7 @@ namespace Payroll
             Console.Write("Enter your hourly pay: ");
             hourPay = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("Enter the hours you worked");
+            Console.Write("Enter the hours you worked:");
             hourWork = Convert.ToDouble(Console.ReadLine());
 
             grossPay = hourPay * hourWork;
@@ -30,9 +30,17 @@ namespace Payroll
             else
                 withTax = grossPay * 0.12;
 
+
+            //NET PAY
             netPay = grossPay - withTax;
 
-            Console.WriteLine
+            // OUTPUT
+            Console.WriteLine("Hourly Pay: {0}", hourPay);
+            Console.WriteLine("Hours Worked: {0}", hourWork);
+            Console.WriteLine("Gross Pay: {0}", grossPay);
+            Console.WriteLine("Withholding tax: {0}", withTax);
+            Console.WriteLine("Net Pay: {0}", netPay);
+
         }
     }
 }
